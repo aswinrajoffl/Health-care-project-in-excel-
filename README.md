@@ -90,17 +90,7 @@ If you’d like to improve this project:
 3. Commit your changes  
 4. Submit a pull request  
 
----
 
-## 📜 License
-This project is licensed under the **MIT License**.
-
----
-
-## 👤 Author
-**Your Name**  
-- GitHub: https://github.com/your-username  
-- LinkedIn: https://linkedin.com/in/your-profile  
 
 ---
 
