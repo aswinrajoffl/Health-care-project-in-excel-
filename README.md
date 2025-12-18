@@ -81,7 +81,10 @@ This dashboard can be used by:
 - Researchers analyzing healthcare trends  
 
 ---
+## DASHBOARD PREVIEW
+ <img width="1110" height="413" alt="image" src="https://github.com/user-attachments/assets/d2c9ad9c-e34c-4c91-933a-a7ce74c2dd6e" />
 
+---
 ## 🤝 Contributing
 Contributions are welcome!  
 If you’d like to improve this project:
